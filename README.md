@@ -21,9 +21,10 @@ O projeto simula um um sistema de E-Commerce, contendo as entidades usuários, p
 Como Testar
 </h3>
 <h4>
-<img src="https://user-images.githubusercontent.com/102265620/230519105-cde9cf7d-02fe-4561-8073-38e6ad1909dd.png" width="20" height="20"/> Link do surge:
+<img src="https://user-images.githubusercontent.com/102265620/230519105-cde9cf7d-02fe-4561-8073-38e6ad1909dd.png" width="20" height="20"/> Link do Render:
+ 
+https://projeto-labecommerce-backend-turma.onrender.com
 
-https://divergent-attraction.surge.sh/ 
 <br></br>
 </h4>
 
