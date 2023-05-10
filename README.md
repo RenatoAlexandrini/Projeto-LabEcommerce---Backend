@@ -16,27 +16,32 @@ Projeto Lab E-Commerce
 O projeto simula um um sistema de E-Commerce, contendo as entidades usuários, produtos e compras, possuindo algumas funções que simulam funções reais, como cadastrar um produto, cadastrar um usuário e realizar uma compra.
 </h4>
 <hr>
+
 <h3>
-<img src="https://user-images.githubusercontent.com/102265620/230518924-f1070954-5e4f-43fa-ba61-e069f2bd2701.png" width="35" height="35"/>
+<img src="https://user-images.githubusercontent.com/102265620/230518924-f1070954-5e4f-43fa-ba61-e069f2bd2701.png" width="35" height="35" align="center"/>
 Como Testar
 </h3>
 <h4>
-<img src="https://user-images.githubusercontent.com/102265620/230519105-cde9cf7d-02fe-4561-8073-38e6ad1909dd.png" width="20" height="20"/> Link do Render:
- 
-https://projeto-labecommerce-backend-turma.onrender.com
-
+<img src="https://user-images.githubusercontent.com/102265620/231886670-84bbf853-61da-4e86-9e84-ed339e0869bb.png" width="20" height="20"/> Link da Documentação via Postman:
 <br></br>
+https://documenter.getpostman.com/view/24755055/2s8YzMXR12
+<br></br>
+- Com o Postman instalado em seu computador, basta abrir a documentação e clicar no botão <img src="https://github.com/RenatoAlexandrini/LabenuSystem/assets/102265620/b4329b29-60d4-4ed4-8f94-0ca08cc866a9" width="170" height="50" align="center"/>  para testar diretamente no Postman.
+<br></br>
+</h4>
+<h4>
+<img src="https://github.com/RenatoAlexandrini/Projeto-LabEcommerce-Backend/assets/102265620/a932ec23-8bef-4527-b208-badbc99a087b" width="30" height="30" align="center"/> Para testar localmente:
 </h4>
 
 ```
+- inicie o Git Bash em uma pasta e digite:
 - git clone https://github.com/RenatoAlexandrini/Projeto-LabEcommerce-Backend
 - npm install
 - npm run migrations
 - npm run start
+- Em cada endpoint, substitua o "https://projeto-labecommerce-backend-turma.onrender.com" por "http://localhost:3003"
 ```
 <hr>
-
-
 
 <h2>
 <img src="https://user-images.githubusercontent.com/102265620/230520548-8ad92534-3dc5-404e-a71d-e2e13313e0ee.png" width="35" height="35"/> Endpoints:
