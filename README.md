@@ -9,7 +9,7 @@ Projeto Lab E-Commerce
 <hr>
 <h4>
 <img src="https://user-images.githubusercontent.com/102265620/230518763-c8d4b16b-7b1e-40d1-aae6-b91de72310a2.png" width="25" height="25"/>
- Projeto realizado com a finalidade de introduzir o conceito de criação de uma API, com um banco de dados fornecido pela Labenu e como podemos proteger os dados importantes utilizando o Dotenv.
+ Projeto realizado com a finalidade de introduzir o conceito de criação de uma API, utilizando o Dotenv como ferramenta de proteção dos dados sensíveis e utilizando um banco de dados fornecido pela própria Labenu.
 </h4>
 <h4>
 <img src="https://user-images.githubusercontent.com/102265620/230518847-78df5e8e-c259-4edb-b333-6fdf9c767d4a.png" width="25" height="25"/>
